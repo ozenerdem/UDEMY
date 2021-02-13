@@ -178,6 +178,4 @@
 #         print("Çeşitkenar üçgen")
 # else:
 #     print("Üçgen çizilemez.")
-"""
-...
-"""
+
