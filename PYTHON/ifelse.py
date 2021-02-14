@@ -177,7 +177,7 @@
 #     else:
 #         print("Çeşitkenar üçgen")
 # else:
-#     print("Üçgen çizilemez.")
+#     print("Üçgen çizilemez.")"
 """
-deneme
+değişiklikler yapıldı.
 """
